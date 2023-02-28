@@ -10,13 +10,16 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-public class HomepageController {
+public class signinpageController {
     @FXML
     private Button logIn;
 
     @FXML
-    protected void onlogInButtonClick(ActionEvent event) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("signInPage.fxml"));
+    private Button createNewAccount;
+
+    @FXML
+    protected void onCreateButtonClick(ActionEvent event) throws IOException {
+        FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("regPage.fxml"));
         Stage homepage = new Stage();
         Scene scene = new Scene(fxmlLoader.load());
         homepage.setScene(scene);

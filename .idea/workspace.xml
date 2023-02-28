@@ -4,10 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed05cb57-a2a4-476e-9c75-7013955f1c90" name="Changes" comment="Initial Commit">
+    <list default="true" id="ed05cb57-a2a4-476e-9c75-7013955f1c90" name="Changes" comment="Updated Commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/medimate/RegistrationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/medimate/signinpageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/medimate/imgs/Registration-page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/medimate/imgs/SignInpage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/medimate/regPage.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/medimate/signInPage.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/medimate/styles/buttonStyles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/medimate/styles/buttons_label.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/medimate/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/medimate/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/medimate/HomepageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/medimate/HomepageController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/medimate/homepage.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/medimate/homepage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/medimate/imgs/Homepage.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/medimate/imgs/Homepage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/medimate/styles/buttonStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/medimate/styles/blueButtons.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,9 +27,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="FxmlFile" />
         <option value="Class" />
-        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -61,8 +71,29 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\MediMate\src\main\resources\com\example\medimate" />
       <recent name="C:\Users\User\IdeaProjects\MediMate\src\main\resources\com\example\medimate\styles" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.medimate.HelloApplication" />
+      <module name="MediMate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.medimate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -72,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677580414838</updated>
-      <workItem from="1677580416088" duration="1765000" />
+      <workItem from="1677580416088" duration="9847000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1677581268831</created>
@@ -88,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677581276479</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updated Commit">
+      <created>1677582335373</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677582335373</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +135,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Updated Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Commit" />
   </component>
 </project>
